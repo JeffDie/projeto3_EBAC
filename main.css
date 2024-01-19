@@ -1,0 +1,57 @@
+body {
+    font-family: 'Rubik', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(13, 13, 136);
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: rgb(13, 13, 136);
+    font-weight: bold;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.section-tittle {
+    font-family: 'Cinzel', serif;
+}
+
+.text-colored {
+    color: rgb(16, 16, 181);
+}
+
+.event-tittle {
+    font-family: 'Kaushan Script', cursive;
+}
+
+#sobre-a-loja,
+#produtos {
+    background-color: rgba(16, 15, 136, 0.2);
+}
+
+
+.nav-cardapio .nav-link:hover {
+    color:rgb(16, 16, 181) ;
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: rgb(16, 16, 181);
+    color: #fff;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
